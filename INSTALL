@@ -1,0 +1,9 @@
+Building SafeCoin
+
+See doc/readme-qt.rst for instructions on building SafeCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SafeCoin.
+
+See doc/build-*.txt for instructions on building SafeCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of SafeCoin.
